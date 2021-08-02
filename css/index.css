@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.div__pai {
+  width: 100%;
+  background-color: black;
+  padding: 2% 0;
+}
+
+.div__pai p,
+h1 {
+  padding: 0 5%;
+  color: white;
+  text-align: center;
+}
+img {
+  width: 100%;
+  margin: 5% auto;
+  border-radius: 5%;
+}
